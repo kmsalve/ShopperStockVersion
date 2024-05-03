@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.shopper.qa.testcases.SearchResultPageTest"/>
+    
+     <!-- <class name="com.shopper.qa.testcases.PaymentOptionsPageTest"/>
+      <class name="com.shopper.qa.testcases.LandingPageTest"/>
+      <class name="com.shopper.qa.testcases.HomePageTest"/>
+      <class name="com.shopper.qa.testcases.AddressPageTest"/>
+      <class name="com.shopper.qa.testcases.SingInPageTest"/>
+      <class name="com.shopper.qa.testcases.PlaceOrderPageTest"/>
+      <class name="com.shopper.qa.testcases.CartPageTest"/>
+      -->
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
